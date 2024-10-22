@@ -57,4 +57,5 @@ psych(14.7,'Tdb',72.1,'RH',.7,'h')
  |**SV**| Specific Volume | ft^3/lbm dry air or m^3/kg dry air |-|
  |**MAD**| Moist Air Density | lbm moist air / ft^3 or kg moist air / m^3 |-|
  
-
+### Note:
+This is the current version and spot where any future features/improvements will be made of the original code https://github.com/remcmurry/Psychropy
